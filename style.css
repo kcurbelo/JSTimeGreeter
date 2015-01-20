@@ -1,0 +1,31 @@
+html {
+	background-size: 100%
+}
+
+h1 {
+	border-bottom: 1px solid;
+}
+
+#wrapper {
+	background-color: rgba(0, 0, 0, 0.4);
+	width: 600px;
+	height: 200px;
+	color: white;
+	margin: 0 auto;
+/*	padding-top: 50px;*/
+}
+
+#greeting {
+/*	background-color: green;*/
+/*	width: 500px;
+	height: 300px;*/
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 18px
+}
+
+/*Want to add:
+- a line underneath Hello, that has faded edges
+- Nicer text
+- Make it fully centered*/
